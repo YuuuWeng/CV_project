@@ -22,5 +22,5 @@ Based on analysing the error from your model(s) you were expected to develop a h
 This would have been a good opportunity to dig deeper, perhaps by examining more (or more insightful) examples.
 In understand due to page limit, these are all you can pack into this report, but some images can be resized to accommodate more contents.
 
-#Final marks
+# Final marks
 24.5/30
